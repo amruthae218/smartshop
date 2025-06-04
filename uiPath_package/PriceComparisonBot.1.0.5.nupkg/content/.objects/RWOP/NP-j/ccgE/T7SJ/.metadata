@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Menu",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "T7SJrnjYI0CP2RbtM_Oc9g",
+  "Reference": "wwf2mNkMDUqwlihCxjouSA/T7SJrnjYI0CP2RbtM_Oc9g",
+  "ParentRef": "wwf2mNkMDUqwlihCxjouSA/ccgEUwdCF0CNMb_E-sBneg",
+  "Created": "2025-02-23T06:04:30.3201349Z",
+  "Updated": "2025-02-23T06:04:30.3201349Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

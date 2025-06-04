@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eyCkYyGqU0C6BGi0qA6t3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="croma.com" DesignTimeRectangle="1150, 205, 48, 51" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl parentid='search-AB-Testing' tag='SPAN' type='' class='icon' aaname='' /&gt;" Guid="ce49880c-5e21-4f4d-a8bc-55456c902376" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Croma Electronics | Online Electronics Shopping | Buy Electronics Online' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1d46cb5a4b4eacf21b6cf08b6af7da21.png" xmlns="">0AvLDHYpS5U6B9YPmF9k2Cw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

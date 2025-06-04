@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NdfCmQYS60-bD1aw7RVPpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.croma.com/searchB?q=iphone%20%3Arelevance&amp;text=iphone%20" DesignTimeRectangle="215, -2011, 1487, 5431" DesignTimeScaleFactor="1.25" ElementType="List" FullSelectorArgument="&lt;webctrl id='product-list-back' tag='UL' /&gt;" Guid="58d1ead9-3627-4c5c-927e-dc26fefcca96" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search iphone | Croma Electronics | Online Electronics Shopping | Buy Electronics Online' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d27225cdb27738086ba1fdf0ac8103fd.png" xmlns="">0wbULL3caXU-w_gL6mL853A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Product_name'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Product_name Url'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='Product_price'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="croma.com/searchB" CVScreenId="91942f71-6950-4f05-889d-adf242092254" CvElementArea="865, 859, 186, 55" CvTextArea="919, 880, 78, 13" CvTextArgument="View More" CvType="Button" DesignTimeRectangle="868, 861, 181, 51" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='container' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='container' tag='BUTTON' type='button' class='btn btn-secondary btn-viewmore' aaname='View More' check:innerText='View More' /&gt;" Guid="232379e6-e885-4f21-b50f-435b616017b7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search iphone | Croma Electronics | Online Electronics Shopping | Buy Electronics Online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

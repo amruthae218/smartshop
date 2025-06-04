@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Croma Electronics  Online Electronics ",
+  "Type": "Screen",
+  "Id": "6ZAhz4jE40ex_eUDlUHOyw",
+  "Reference": "wwf2mNkMDUqwlihCxjouSA/6ZAhz4jE40ex_eUDlUHOyw",
+  "ParentRef": "wwf2mNkMDUqwlihCxjouSA/NP-jzYD1ZEWHJ31iem_0kA",
+  "Created": "2025-02-23T06:02:47.7949473Z",
+  "Updated": "2025-02-23T06:02:47.7949473Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

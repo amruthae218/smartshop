@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Online Electronic Shopping Store in In",
+  "Type": "Screen",
+  "Id": "NagV5L_csUyyivqbIe2uQw",
+  "Reference": "wwf2mNkMDUqwlihCxjouSA/NagV5L_csUyyivqbIe2uQw",
+  "ParentRef": "wwf2mNkMDUqwlihCxjouSA/RpCnUb_OZ0SbW16AMnKnmA",
+  "Created": "2025-02-23T06:23:44.3015763Z",
+  "Updated": "2025-02-23T06:23:44.3015763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

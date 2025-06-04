@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/PriceComparisonBot.nuspec" Id="RCDE26A96CDD532C6" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/50d91796d446466bb73c0ddd09bb16cc.psmdcp" Id="R08FC5D64877FD0A9" />
+</Relationships>

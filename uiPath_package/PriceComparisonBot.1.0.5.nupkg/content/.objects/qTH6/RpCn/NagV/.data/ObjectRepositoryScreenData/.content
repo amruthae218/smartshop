@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="naTuCAFrRk-v7zKT5A4Zig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKCSURBVEhL1ZU9aFNRFMdvv5ySGIpLhi6SobgUoU4ZLCVohi5WKbhUOlVQRGpVaAtKcRFESoUW0UmFdJJAu1Ts0IK4qKODidLBkkpF2kEhheb0/Q49l5f0RRyaweFw7vn8/8+5Ny/u/M2BpooT51qbKZGoRymuGIuv/IuUj7Wu7MTaVUfFG4nbSCZlM3H8r7LTmZCl07nqROaaauyovHqht/saT+zVS6nzhNj5e0fHHk1TZ+e9YOMP1zQSA6Chl2JbuwpAsIX5UHZa1vuzAgA2DA+IHNIhOQywkUpJeXBQNk91K4hN8Gj8sXy6+0AB3qR71W9E6iUEVAuw1dJShWXlS1F+FwoK9GN4WH7eviO/XrxSe+v+tPdzLp1Ma5w604DbCj0AifOjk1pYrVRke/aJ/FldVTCaA2g+BNsEP82t7umVMVnOXVKgGoCe/Gf5eH3cF9EYDVM0Ys3x0dTyOBOD4IVna0qWjSgASOwegPe9GQ2wR4RLxubJaV6gsWmwfDFYE7Gg1nK4fACYAp+jiHFuPFxQgHd9OclfvqrNERKnJufUR4xcpj3zuiTnXn5QH6Qsh6Y1AARJHplZVABYYdOEIprg58xLIo8Xhi9MiLyut9tqk+NXRBBEVkESAGgA0CTeuvdcATgz6W7wjUQDyBltAPQDwE9gAMYqPAHroIg4tk1AUzQ2xMgh11ZTM4GtiOYkcGEkwIg3TQy2+BmfZnbBxpi4TQAAPgUNcvSSAcEJS2xlHwRhhQbYVmMXDTs0tbwe6rGth8X8M6Xg4Dehgm3MmAJm5JlYnZ3Jt3M45sKfVjt7X7AWmMA66hMdruFc3wPbfYvFCs2UyL+5o5T//U9/wO0DskxcBo6L8XsAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Online Electronic Shopping Store in India - Reliance Digital' /&gt;" Url="https://www.reliancedigital.in/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="34e646d764f911ffa3eded7a65b9b91a.jpg" xmlns="">0tjNrP3HYB0uGhfuvLfDqLA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

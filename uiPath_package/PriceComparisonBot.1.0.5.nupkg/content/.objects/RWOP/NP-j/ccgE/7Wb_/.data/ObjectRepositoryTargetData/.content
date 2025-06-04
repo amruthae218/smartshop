@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pa14Zb7bu0miM7t07qqOLw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="croma.com" CVScreenId="dfcd6c23-8f18-4111-9ed3-7a0a8c7a5f59" CvElementArea="616, 204, 583, 54" CvType="InputBox" DesignTimeRectangle="619, 205, 579, 51" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='searchV2' tag='INPUT' type='text' class='MuiAutocomplete-input MuiAutocomplete-inputFocused search-field' placeholder='What are you looking for ?' aaname='' /&gt;" Guid="c4331147-3fbd-4405-89d3-7df7ecb0d419" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Croma Electronics | Online Electronics Shopping | Buy Electronics Online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dfcd6c23-8f18-4111-9ed3-7a0a8c7a5f59" CvTextArea="519, 224, 38, 15" CvTextArgument="Menu" CvType="Text" DesignTimeRectangle="518, 222, 39, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='  Menu' tag='SPAN' type='' class='' check:innerText='Menu' /&gt;" Guid="9bcfabdf-f6c2-43ce-b6be-7f331e366943" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="65d424df241633d410ea7a433eee1f13.png" xmlns="">07Zk0KuLuN0GVH8G1tkKz7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

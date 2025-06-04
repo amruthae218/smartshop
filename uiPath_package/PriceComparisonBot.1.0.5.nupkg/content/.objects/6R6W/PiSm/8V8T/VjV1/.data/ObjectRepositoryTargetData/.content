@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BvmQ7IH7b0WTBfhcYTE0EA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com" CVScreenId="ddb01c87-dab2-45fa-8a56-4637694680a0" CvElementArea="289, 197, 945, 53" CvType="InputBox" DesignTimeRectangle="289, 199, 55, 50" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='_2iLD__' aaname='Search for Products, Brands and More' check:text='Search Icon' /&gt;" Guid="d1e993d3-3d47-4ff3-963f-11e6726aa322" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books &amp;amp; More. Best Offers!' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ddb01c87-dab2-45fa-8a56-4637694680a0" CvElementArea="289, 197, 945, 53" CvType="InputBox" DesignTimeRectangle="344, 199, 886, 50" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='Pke_EE' placeholder='Search for Products, Brands and More' aaname='Search for Products, Brands and More' /&gt;" Guid="8b9730f5-7415-4a42-988b-378ffa273f75" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="076beae6c589a9acc3a009babea7edc9.png" xmlns="">0xlOTkMBkn0OfKhOLZsoAjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

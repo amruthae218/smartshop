@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Extract Table Data",
+  "Type": "Element",
+  "TaxonomyType": "Listbox",
+  "Id": "m0Wuff0XX0WY9wL2Gv1SdQ",
+  "Reference": "wwf2mNkMDUqwlihCxjouSA/m0Wuff0XX0WY9wL2Gv1SdQ",
+  "ParentRef": "wwf2mNkMDUqwlihCxjouSA/ccgEUwdCF0CNMb_E-sBneg",
+  "Created": "2025-02-23T06:08:56.5105011Z",
+  "Updated": "2025-02-23T06:08:56.5105011Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

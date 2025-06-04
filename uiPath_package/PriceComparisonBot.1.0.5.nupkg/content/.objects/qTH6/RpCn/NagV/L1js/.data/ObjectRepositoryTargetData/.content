@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SNJKsKekmEG7_FE-39JPfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="reliancedigital.in" CVScreenId="66c79349-9dd9-45de-95eb-8f9943325a7d" CvElementArea="266, 217, 1045, 55" CvType="InputBox" DesignTimeRectangle="271, 219, 1038, 50" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='search-input' placeholder='Search Products &amp;amp; Brands' aaname='' /&gt;" Guid="9c61cfbf-14a0-4f97-a4d4-4fed5e55b559" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Electronic Shopping Store in India - Reliance Digital' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a126037b6a01611d1b1d3192f77db8a.png" xmlns="">0q13fZ9mm9kekirjmrC0B-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
